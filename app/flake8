@@ -1,7 +1,4 @@
 [flake8]
-per-file-ignores =
-    # line too long
-    ./app/settings.py: E501,
 exclude =
  migrations,
  __pycache__,
